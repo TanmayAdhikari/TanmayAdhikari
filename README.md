@@ -25,9 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **web
 
 Here are some of the projects I've been working on:
 
-- [**Project 1**](https://github.com/TanmayAdhikari/project1): A brief description of the project.
-- [**Project 2**](https://github.com/TanmayAdhikari/project2): Another project you’re proud of.
-- [**Project 3**](https://github.com/TanmayAdhikari/project3): A cool project showcasing your skills.
+- [**Eco-Notes**](https://github.com/TanmayAdhikari/Eco-Notes): Eco Notes is a user-friendly note-taking application designed to help you efficiently organize your thoughts and tasks. With features like quick note creation, efficient search, custom pagination.
+- [**Diabetes-Prediction-using-SVM**](https://github.com/TanmayAdhikari/Diabetes-Prediction-using-SVM): This project is about predicting diabetes using a Support Vector Machine (SVM) model. It loads a dataset, preprocesses the data, trains an SVM model, and then creates a Gradio interface ..
 
 Check out more of my repositories [here](https://github.com/TanmayAdhikari?tab=repositories).
 
@@ -35,8 +34,8 @@ Check out more of my repositories [here](https://github.com/TanmayAdhikari?tab=r
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Email:** tanmayadhikari@example.com
+- **LinkedIn:** [Connect with me on LinkedIn][(https://github.com/TanmayAdhikari)]
+- **Email:** tanmay.adhikari.work@gmail.com
 - **Portfolio Website:** [Visit my website](https://yourportfolio.com)
 
 Feel free to check out my repositories, and don’t hesitate to reach out if you’d like to collaborate on something exciting!
