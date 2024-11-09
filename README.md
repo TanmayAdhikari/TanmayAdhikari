@@ -34,7 +34,7 @@ Check out more of my repositories [here](https://github.com/TanmayAdhikari?tab=r
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Connect with me on LinkedIn][(https://github.com/TanmayAdhikari)]
+- **LinkedIn:** [Connect with me on LinkedIn]([https://github.com/TanmayAdhikari](https://www.linkedin.com/in/tanmay-adhikari-ttt/))
 - **Email:** tanmay.adhikari.work@gmail.com
 - **Portfolio Website:** [Visit my website](https://yourportfolio.com)
 
