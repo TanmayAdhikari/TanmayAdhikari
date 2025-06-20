@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **web
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Databases:** MySQL, MongoDB
-- **Other Tools:** Git, Docker, VS Code, Postman
+- **Tools & Platforms:** Git, Docker, VS Code, Postman, Gradio, Streamlit
 
 ---
 
@@ -23,14 +23,21 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **web
 
 ## 🌟 Featured Projects
 
-Here are some of the projects I've been working on:
+Here are a few of my favorite and most impactful projects:
 
-- [**Chat_to_CSV**](https://github.com/TanmayAdhikari/Chat_to_CSV): A smart web application that allows you to edit CSV files using natural language commands. Simply upload your CSV and tell the app what you want to do in plain English - the AI will generate and execute the appropriate Python code for you.
-- [**Multi-week-Hub-Distribution-Optimizer**](https://github.com/TanmayAdhikari/Multi-week-Hub-Distribution-Optimizer): This project uses PuLP and Gradio to model and solve a multi-week inventory distribution problem across hubs with demand, supply, and transportation cost constraints.
-- [**Eco-Notes**](https://github.com/TanmayAdhikari/Eco-Notes): Eco Notes is a user-friendly note-taking application designed to help you efficiently organize your thoughts and tasks. With features like quick note creation, efficient search, custom pagination.
-- [**Diabetes-Prediction-using-SVM**](https://github.com/TanmayAdhikari/Diabetes-Prediction-using-SVM): This project is about predicting diabetes using a Support Vector Machine (SVM) model. It loads a dataset, preprocesses the data, trains an SVM model, and then creates a Gradio interface ..
+- 🔁 [**Multi-week-Hub-Distribution-Optimizer**](https://github.com/TanmayAdhikari/Multi-week-Hub-Distribution-Optimizer)  
+  A dynamic optimization tool built with **PuLP** and **Gradio**, designed to minimize inventory shipment costs and unmet demand penalties across multiple hubs and weeks. Now includes a **detailed cost breakdown** for better insights.
 
-Check out more of my repositories [here](https://github.com/TanmayAdhikari?tab=repositories).
+- 💬 [**Chat_to_CSV**](https://github.com/TanmayAdhikari/Chat_to_CSV)  
+  A natural language-driven CSV editor. Upload your file, ask in plain English, and let the app write and run the code for you!
+
+- 🗒️ [**Eco-Notes**](https://github.com/TanmayAdhikari/Eco-Notes)  
+  A clean and lightweight notes app with efficient search, pagination, and a minimalist interface.
+
+- 🧪 [**Diabetes-Prediction-using-SVM**](https://github.com/TanmayAdhikari/Diabetes-Prediction-using-SVM)  
+  Predicts diabetes using SVM and integrates an interactive **Gradio** frontend for instant predictions.
+
+➡️ Explore more of my work on my [GitHub repositories page](https://github.com/TanmayAdhikari?tab=repositories)
 
 ---
 
